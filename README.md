@@ -15,7 +15,7 @@ Compared to other servo drivers this board offers:
   Independant power control(ON/OFF) to each outputs via i2c.
   Independant duty cycle control to each outputs via i2c.
   Adjustible frequency to up to 1.6khz.
-  1.5A per output when powered from external supply.
+  1.25A per output when powered from external supply.
   LEDs on each output providing feedback if output is ON or OFF.
   2 selectible power sources selectible with jumpers and with led status indicators.
   Onboard voltage regulator (input 6-7v 3A recommended), when barrel jack is used.
@@ -26,7 +26,7 @@ Compared to other servo drivers this board offers:
   
 =========================
 
-features:
+Features:
 
 •16 PWM channels, controllable over I2C
 •2.1mm industry standard barrel jack port
