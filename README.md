@@ -23,7 +23,7 @@ Compared to other servo drivers this board offers:
   I2C addressess are selectable with jumpers for both onboard ics.
   Fully compatible with fast mode I2C 400kbits/s.
   Each board is fully tested before shipping.
-  Compatible with Sparkfun and Adafruit libraries.
+  
 =========================
 
 features:
