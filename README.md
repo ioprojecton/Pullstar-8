@@ -23,23 +23,18 @@ Compared to other servo drivers this board offers:
   I2C addressess are selectable with jumpers for both onboard ics.
   Fully compatible with fast mode I2C 400kbits/s.
   Each board is fully tested before shipping.
-
+ Compatible with Adafruit, Sparkfun libraries.
 =========================
 
 features:
 
 •16 PWM channels, controllable over I2C
-•2.1mm industry standard barrel jack port.????
-•40-pin GPIO header for connection to Raspberry Pi
-•CH340C USB Serial SOIC16
-•Updated logic level conversion circuitry
-•Power protection circuits
+•2.1mm industry standard barrel jack port
 •Contain an I2C-controlled PWM ic with a built-in clock
 •12-bit resolution for each output - for servos(4us at 60hz)
-• RoHS Compliant
 •Controls up to 8 servos
 .Dual power inputs (selectible with jumpers).
 .Onboard low noise low ripple regulator.
-.84mm x 84mm size
+.115 x 105mm size
 .Feedback LEDs on each output
 .Independant power control to each output
